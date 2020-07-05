@@ -14,3 +14,7 @@ The market of automobiles is immense in its size, and those who know the trends 
 <br>
 To give an advice to car dealers and other potential stakeholders, especially those operating in Germany, we introduce a dataset on sold cars in the classfield section of the German eBay website. We conculde that such car models as Volkswagen Golf, BMW 3 Series, Opel Corsa, Opel Astra, Mercedes-Benz C-Class, Mercedes-Benz E-Class, Audi A4, Ford Focus and Ford Fiesta were sold the most in Spring 2016. Moreover, the cheaper models are usually sold faster one day on average, while the price of premium brands is seemingly not affected much by the higher average mileage.
 <br>
+## Project 4 - What Determines the Choice of a College Major?
+Choosing a college major is one of the most important decisions individuals do during their lifetime, therefore it is an imperative to do it wisely. What criteria should be referred to and are prospective earning a decisive factor, when others do this choice?
+<br>
+To make the link between education and possible career prospects clearer, we explore American Community Survey 2010-2012 Public Use Microdata Series, which contains data on various college majors median earnings, number of males and females, unemployment, etc. At the end of our investigation, we conclude that Engineering is the most promising field in terms of earnings, but Psychology, Humanities and Social Sciences are nonetheless more popular. Moreover, we found out significant differences in college major choices made by males and females.
