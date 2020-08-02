@@ -20,7 +20,7 @@ Choosing a college major is one of the most important decisions individuals do d
 To make the link between education and possible career prospects clearer, we explore American Community Survey 2010-2012 Public Use Microdata Series, which contains data on various college majors' median earnings, number of males and females, unemployment, etc. At the end of our investigation, we conclude that Engineering is the most promising field in terms of earnings, but Psychology, Humanities and Social Sciences are nonetheless more popular. Moreover, we found out significant differences in college major choices made by males and females.
 <br>
 ## Project 5 - Where Do Best Students Come From?
-*N.B. For the correct view please check the following link* - [External link](https://nbviewer.jupyter.org/github/Erzinrost/Data_Science_Projects/blob/6cda14f524874f23daa764832514564dd6eb0ff3/Project%205%20-%20Where%20Do%20Best%20Students%20Come%20From_.ipynb)
+*N.B. For the correct view please check the following link* - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/Erzinrost/Data_Science_Projects/blob/6cda14f524874f23daa764832514564dd6eb0ff3/Project%205%20-%20Where%20Do%20Best%20Students%20Come%20From_.ipynb)
 <br><br>
 Secondary education is an important stepping stone into the bright future and doing well on this stage allows being enrolled into the best colleges and universities. What factors are important the most for a student to perform academically well and get good final test scores? What are the major impediments?
 <br><br>
