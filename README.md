@@ -1,6 +1,6 @@
 # Data Science Projects
 ## Project 1 - What Is an App Profile to Hit the Jackpot with?
-*Language - Python*<br>
+*Language - Python*<br><br>
 *N.B. For the correct view please check the following link* - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/Erzinrost/Data_Science_Projects/blob/master/Project%201%20-%20What%20Is%20an%20App%20Profile%20to%20Hit%20the%20Jackpot%20with_.ipynb)
 <br><br>
 So many people all around the globe are using various mobile apps. Why not to explore what app profiles are of the most popularity and to think about developing such an app?
