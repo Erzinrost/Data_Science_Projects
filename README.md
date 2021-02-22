@@ -1,6 +1,6 @@
 # Data Science Projects
 ## Project 1 - What Is an App Profile to Hit the Jackpot with?
-*Language - Python
+*Language - Python<br><br>
 *N.B. For the correct view please check the following link* - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/Erzinrost/Data_Science_Projects/blob/master/Project%201%20-%20What%20Is%20an%20App%20Profile%20to%20Hit%20the%20Jackpot%20with_.ipynb)
 <br><br>
 So many people all around the globe are using various mobile apps. Why not to explore what app profiles are of the most popularity and to think about developing such an app?
@@ -8,7 +8,7 @@ So many people all around the globe are using various mobile apps. Why not to ex
 We use a representative dataset on apps from App Store and Google Play to find possible answers to this question. At the end of the analysis we come up with a recommendation to build an app around a popular book, or a series of such books.
 <br>
 ## Project 2 - How to Promote Your Great Idea?
-*Language - Python
+*Language - Python<br><br>
 *N.B. For the correct view please check the following link* - [Jupyter nbviewer](https://nbviewer.jupyter.org/github/Erzinrost/Data_Science_Projects/blob/master/Project%202%20-%20How%20to%20Promote%20Your%20Great%20Idea_.ipynb)
 <br><br>
 Let's suppose you have a great idea, which can be realized only with the help of other. What should you do, how can you promote it?
